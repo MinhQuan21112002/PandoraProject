@@ -38,6 +38,14 @@ public class ConnectJDBC {
 //		private final String instance = "SQLEXPRESS";
 //		private final String userID = "sa";
 //		private final String password = "123456";
+	// Conection của Quân 
+//		private final String serverName = "DESKTOP-UBLSUDG";
+//		private final String dbName = "Pandora";
+//		private final String portNumber = "1433";
+//		private final String instance = "SQLEXPRESS";
+//		private final String userID = "sa";
+//		private final String password = "123456";
+	
 	// Conection của Khang
 	// Connection của Lâm
 //		private final String serverName = "LAMNGUYEN";
